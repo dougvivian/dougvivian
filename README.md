@@ -3,7 +3,6 @@
 Software Engineering student @ PUCRS · Porto Alegre, RS
 
 ![Open to internships](https://img.shields.io/badge/Open%20to-Internships-brightgreen?style=flat-square)
-![Expected graduation](https://img.shields.io/badge/Graduation-2028%2F2-orange?style=flat-square)
 
 ---
 
@@ -59,4 +58,4 @@ Circular fashion marketplace with AI assistant. Developed as part of the AGES I 
 
 ---
 
-*Porto Alegre, RS · Fluent in Portuguese and English*
+*Porto Alegre, RS · Portuguese and English*
