@@ -9,9 +9,9 @@ Software Engineering student @ PUCRS · Porto Alegre, RS
 
 ## About
 
-Full stack developer in training, with a background in Business Administration and Financial Management — so I think about systems from both the code and the business side.
+Full stack developer in training, with a background in Business Administration and Financial Management, so I think about systems from both the code and the business side.
 
-Currently enrolled in Software Engineering @ PUCRS, the STARTR Program (HP Brazil/PUCRS research lab), and +praTI Full Stack + AI 2026.
+Currently enrolled in Software Engineering PUCRS, the STARTR Program (HP Brazil/PUCRS research lab), and +praTI Full Stack + AI 2026.
 
 Building with FastAPI, React, and PostgreSQL. Interested in remote work for international companies.
 
