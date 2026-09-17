@@ -57,5 +57,3 @@ Circular fashion marketplace with AI assistant. Developed as part of the AGES I 
 - Email: doug_vivian@hotmail.com
 
 ---
-
-*Porto Alegre, RS · Portuguese and English*
